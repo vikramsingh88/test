@@ -1,0 +1,19 @@
+Morgan module is used for debug purpose
+
+npm install express@4.0.0 to install module for perticular version
+
+npm init used to create package.json file
+
+To import java function from one file to another file
+var util = require('');
+
+to publish module to npm repo
+npm adduser
+
+npm publish
+
+res.json() method used to return json response
+
+
+
+
