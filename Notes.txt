@@ -14,6 +14,16 @@ npm publish
 
 res.json() method used to return json response
 
+How to commit code to git repository
+
+git init
+git comit -m "initial commit"
+
+//to ignore file from being push use ignore file
+.gitignore
+
+Heroku is a cloud platform
+
 
 
 
